@@ -36,6 +36,7 @@ task-dashboard/
 ├── index.html
 ├── style.css
 └── script.js
+
 ▶️ Como rodar o projeto
 git clone https://github.com/seu-usuario/task-dashboard-react.git
 
