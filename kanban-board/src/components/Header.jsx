@@ -25,7 +25,7 @@ function Header({ tasks, onAddTask }) {
   return (
     <header className="header container-box">
       <div className="header-info">
-        <h1>Kanban Board Pro</h1>
+        <h1>DashBoard To-Do</h1>
         <p className="subtitle">Gerencie seu fluxo de trabalho arrastando os cards</p>
       </div>
       
